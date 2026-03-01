@@ -3,7 +3,7 @@
 ### 🧑‍💻 Profile
   -  배재현(@jaehyeon0420)
   -  AI, Web(FE, BE), Server & DevOps에 관심이 있습니다.
-  -  
+  
 ### 👋 About
   - 3년의 백엔드 기본기 위에 최신 AI 기술로 실무적인 솔루션을 제작하는 AI 엔지니어입니다.
 
