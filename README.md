@@ -26,5 +26,5 @@
   - 26.02 : Microsoft AI School Final Project - 우수상
 
 ### 📡 Links
-  - 🍪 Portfolio: https://jaehyeon0420.github.io/portfolio/
+  - 🍪 Resume : https://jaehyeon0420.github.io/resume/
   - 📖 LinkedIn : https://www.linkedin.com/in/jaehyeon-bae-445a09384/
